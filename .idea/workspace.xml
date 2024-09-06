@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c8a508b-072b-4d76-965e-2350a504da94" name="Changes" comment="Восьмой коммит">
-      <change afterPath="$PROJECT_DIR$/catalog/templates/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="0c8a508b-072b-4d76-965e-2350a504da94" name="Changes" comment="Девятый коммит">
       <change beforePath="$PROJECT_DIR$/catalog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -156,7 +154,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725606878760</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Девятый коммит">
+      <option name="closed" value="true" />
+      <created>1725607275416</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1725607275416</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -166,6 +172,7 @@
     <MESSAGE value="Шестой коммит" />
     <MESSAGE value="Седьмой коммит" />
     <MESSAGE value="Восьмой коммит" />
-    <option name="LAST_COMMIT_MESSAGE" value="Восьмой коммит" />
+    <MESSAGE value="Девятый коммит" />
+    <option name="LAST_COMMIT_MESSAGE" value="Девятый коммит" />
   </component>
 </project>
