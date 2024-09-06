@@ -1,6 +1,8 @@
 from xml.etree.ElementInclude import include
+from catalog.apps import CatalogConfig
+
+app_name = CatalogConfig.name
 
 urlpatterns = [
-    path('admin/', admin.site.urls),
-    path('', include('catalog.urls', namespace='catalog'))
+    path('',)
 ]
