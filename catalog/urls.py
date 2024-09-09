@@ -1,7 +1,8 @@
-from xml.etree.ElementInclude import include
+from django.urls import path
+
 from catalog.apps import CatalogConfig
-from catalog.views import home
 from catalog.views import contacts
+from catalog.views import home
 
 app_name = CatalogConfig.name
 
